@@ -1,2 +1,2 @@
 # Calculator
-Calculator using HTML , CSS and JavaScript .
+ Created Calculator using HTML , CSS and JavaScript as an intern@CodSoft.
